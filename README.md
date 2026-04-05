@@ -1,2 +1,4 @@
-# Climate
-Learning about climate change and climate modeling
+# Environment
+
+- spatiotemporal air-pollution modeling pipeline using Gaussian processes
+- climate modeling
